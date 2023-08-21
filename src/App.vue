@@ -15,7 +15,7 @@
           type="text"
           name="content"
           id="content"
-          placeholder="e.g. make a video"
+          placeholder="Что то сделать...? Приготовить завтрак?"
           v-model="inputContent"
         />
 
